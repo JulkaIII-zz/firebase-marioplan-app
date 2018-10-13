@@ -1,2 +1,2 @@
 # firebase-marioplan-app
-Used firebase, React, Redux
+Used firebase, React, Redux, materializeCSS
